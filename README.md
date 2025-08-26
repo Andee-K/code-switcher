@@ -1,5 +1,7 @@
 # CodeSwitch 🔐
+
 A modern, responsive landing page for CodeSwitch - an authentication API service that provides SDKs for various programming languages and frameworks. Built with vanilla HTML, CSS, and JavaScript for optimal performance and maintainability.
+
 <img width="1338" height="923" alt="Screenshot 2025-08-26 at 4 40 49 PM" src="https://github.com/user-attachments/assets/a946e3b7-b983-478e-9669-5b9d093c3c3f" />
 
 ## ✨ Features
